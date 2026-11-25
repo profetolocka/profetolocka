@@ -15,6 +15,7 @@
 
 Its purpose is to generate knowledge through hands-on experimentation with **real hardware**, share reproducible results, explain how technology works and facilitate its practical application.
 
+---
 
 **Esp:** Un espacio abierto e independiente dedicado a la **exploración, experimentación y documentación** de tecnologías electrónicas, sistemas embebidos e IoT.
 
