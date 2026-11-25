@@ -2,7 +2,7 @@
   <img src="assets/labs/header.png" width="100%" alt="ProfeTolocka Labs">
 </p>
 
-## What is ProfeTolocka Labs? / ¿Qué es ProfeTolocka Labs?
+## What is ProfeTolocka Labs? - ¿Qué es ProfeTolocka Labs?
 
 <table>
 <tr>
