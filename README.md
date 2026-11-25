@@ -11,13 +11,17 @@
 </td>
 <td valign="middle">
 
+#### English
 
+**ProfeTolocka Labs** is an open, independent space dedicated to the **exploration, experimentation and documentation** of electronics, embedded systems and IoT technologies.
 
-**EN:** An open, independent space for exploring, experimenting with and documenting electronics, embedded systems, IoT and related technologies.  
-We work with real hardware, share reproducible experiments, explain how technology works and publish code and results as openly as possible.
+Its purpose is to generate knowledge through hands-on experimentation with **real hardware**, share reproducible results, explain how technology works and facilitate its practical application.
 
-**ES:** Un espacio abierto e independiente para explorar, experimentar y documentar tecnologías electrónicas, sistemas embebidos, IoT y áreas relacionadas.  
-Trabajamos con hardware real, compartimos experimentos reproducibles, explicamos cómo funciona la tecnología y publicamos código y resultados de la forma más abierta posible.
+#### Español
+
+**ProfeTolocka Labs** es un espacio abierto e independiente dedicado a la **exploración, experimentación y documentación** de tecnologías electrónicas, sistemas embebidos e IoT.
+
+Su propósito es generar conocimiento a partir de experiencias con **hardware real**, compartir resultados reproducibles, explicar el funcionamiento de la tecnología y facilitar su aplicación práctica.
 
 </td>
 </tr>
