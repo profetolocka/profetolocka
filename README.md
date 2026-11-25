@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/labs/header.svg" width="100%" alt="ProfeTolocka Labs — Real hardware. Real experiments. Open knowledge.">
+  <img src="assets/labs/header.png" width="100%" alt="ProfeTolocka Labs — Real hardware. Real experiments. Open knowledge.">
 </p>
 
 ## What is ProfeTolocka Labs? / ¿Qué es ProfeTolocka Labs?
