@@ -6,7 +6,7 @@
 
 <table>
 <tr>
-<td width="18%" valign="middle"><img src="assets/labs/icon.svg" width="120" alt="Electronic laboratory"></td>
+<td width="18%" valign="middle"><img src="assets/labs/icon.png" width="120" alt="Electronic laboratory"></td>
 <td valign="middle">
 <p><strong>EN:</strong> An open, independent space for exploring, experimenting with and documenting electronics, embedded systems, IoT and related technologies. We work with real hardware, share reproducible experiments, explain how technology works and publish code and results as openly as possible.</p>
 <p><strong>ES:</strong> Un espacio abierto e independiente para explorar, experimentar y documentar tecnologías electrónicas, sistemas embebidos e IoT. Trabajamos con hardware real, compartimos experimentos reproducibles, explicamos cómo funciona la tecnología y publicamos código y resultados de forma abierta.</p>
@@ -19,14 +19,14 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/profetolocka/M5Stack-PaperMono-Lab"><img src="assets/labs/papermono.svg" width="100%" alt="M5Stack PaperMono Lab — In progress / En desarrollo"></a>
+<a href="https://github.com/profetolocka/M5Stack-PaperMono-Lab"><img src="assets/labs/papermono.png" width="100%" alt="M5Stack PaperMono Lab — In progress / En desarrollo"></a>
 <br><strong><a href="https://github.com/profetolocka/M5Stack-PaperMono-Lab">M5Stack PaperMono Lab</a></strong>
 <br>Hardware evaluation, e-paper, power measurements and programming.
 <br>Evaluación de hardware, tinta electrónica, consumo y programación.
 <br><a href="https://github.com/profetolocka/M5Stack-PaperMono-Lab/blob/main/README.es.md">Español</a> · <a href="https://github.com/profetolocka/M5Stack-PaperMono-Lab">English</a>
 </td>
 <td width="50%" valign="top">
-<img src="assets/labs/meshtastic.svg" width="100%" alt="Meshtastic Lab — Planned / Previsto">
+<img src="assets/labs/meshtastic.png" width="100%" alt="Meshtastic Lab — Planned / Previsto">
 <br><strong>Meshtastic Lab</strong>
 <br>LoRa, mesh networking and field experiments.
 <br>LoRa, redes mesh y experimentos de campo.
@@ -34,13 +34,13 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<img src="assets/labs/micropython.svg" width="100%" alt="MicroPython Lab — Planned / Previsto">
+<img src="assets/labs/micropython.png" width="100%" alt="MicroPython Lab — Planned / Previsto">
 <br><strong>MicroPython Lab</strong>
 <br>Embedded programming and educational experiments.
 <br>Programación embebida y experimentos educativos.
 </td>
 <td width="50%" valign="top">
-<img src="assets/labs/iot.svg" width="100%" alt="IoT Lab — Planned / Previsto">
+<img src="assets/labs/iot.png" width="100%" alt="IoT Lab — Planned / Previsto">
 <br><strong>IoT Lab</strong>
 <br>Sensors, MQTT, telemetry and connected systems.
 <br>Sensores, MQTT, telemetría y sistemas conectados.
