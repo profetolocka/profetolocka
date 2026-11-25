@@ -6,10 +6,12 @@
 
 <table>
 <tr>
-<td width="18%" valign="middle">
-  <img src="assets/labs/icon.png" width="120" alt="ProfeTolocka Labs icon">
+<td width="28%" align="center" valign="middle">
+  <img src="assets/labs/icon.png" width="200">
 </td>
 <td valign="middle">
+
+
 
 **EN:** An open, independent space for exploring, experimenting with and documenting electronics, embedded systems, IoT and related technologies.  
 We work with real hardware, share reproducible experiments, explain how technology works and publish code and results as openly as possible.
